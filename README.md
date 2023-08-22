@@ -44,14 +44,19 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - MySQL
 - Typescript
 - Clerk Authentication (clerk.com)
+- Zustand (state management)
 
 ### Setup
 - npx create-next-app@latest . --typescript --tailwind --eslint
 - npx shadcn-ui@latest init
 - npm run dev
+- npm install zustand
 
 ### Install Components
 - npx shadcn-ui@latest add button
+- npx shadcn-ui@latest add dialog
+- npx shadcn-ui@latest add form
+- npx shadcn-ui@latest add input
 
 ### Clerk Authentication
 - npm install @clerk/nextjs
@@ -62,3 +67,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://ui.shadcn.com/docs/components/button
 - https://clerk.com/docs/quickstarts/nextjs
 - https://clerk.com/docs/components/user/user-button
+- https://ui.shadcn.com/docs/components/dialog
+- https://ui.shadcn.com/docs/components/form
+- https://ui.shadcn.com/docs/components/input
