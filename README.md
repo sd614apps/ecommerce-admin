@@ -41,16 +41,19 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - React
 - Tailwind
 - Prisma
-- MySQL
+- MySQL (PlanetScale.com)
 - Typescript
 - Clerk Authentication (clerk.com)
 - Zustand (state management)
+- Axios
 
 ### Setup
 - npx create-next-app@latest . --typescript --tailwind --eslint
 - npx shadcn-ui@latest init
 - npm run dev
 - npm install zustand
+- npm install axios
+- npm install react-hot-toast
 
 ### Install Components
 - npx shadcn-ui@latest add button
@@ -60,6 +63,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Clerk Authentication
 - npm install @clerk/nextjs
+
+### Prisma
+- npm install -D prisma
+- npm install @prisma/client
+- npx prisma init
+- npx prisma generate
+- npx prisma db push
 
 ### References
 - https://ui.shadcn.com/docs/installation/next
