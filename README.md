@@ -60,6 +60,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - npx shadcn-ui@latest add dialog
 - npx shadcn-ui@latest add form
 - npx shadcn-ui@latest add input
+- npx shadcn-ui@latest add popover
+- npx shadcn-ui@latest add command
 
 ### Clerk Authentication
 - npm install @clerk/nextjs
@@ -70,6 +72,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - npx prisma init
 - npx prisma generate
 - npx prisma db push
+- npx prisma migrate reset
 
 ### References
 - https://ui.shadcn.com/docs/installation/next
@@ -80,3 +83,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://ui.shadcn.com/docs/components/dialog
 - https://ui.shadcn.com/docs/components/form
 - https://ui.shadcn.com/docs/components/input
+- https://ui.shadcn.com/docs/components/combobox
+- https://ui.shadcn.com/docs/components/popover#installation
+- https://ui.shadcn.com/docs/components/command#installation
