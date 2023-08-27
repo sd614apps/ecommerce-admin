@@ -63,6 +63,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - npx shadcn-ui@latest add popover
 - npx shadcn-ui@latest add command
 - npx shadcn-ui@latest add separator
+- npx shadcn-ui@latest add alert
+- npx shadcn-ui@latest add badge
 
 ### Clerk Authentication
 - npm install @clerk/nextjs
@@ -88,3 +90,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://ui.shadcn.com/docs/components/popover#installation
 - https://ui.shadcn.com/docs/components/command#installation
 - https://ui.shadcn.com/docs/components/separator
+- https://ui.shadcn.com/docs/components/alert
+- https://ui.shadcn.com/docs/components/badge
