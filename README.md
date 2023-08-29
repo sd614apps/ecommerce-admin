@@ -46,6 +46,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - Clerk Authentication (clerk.com)
 - Zustand (state management)
 - Axios
+- Cloudinary.com (Image uploads)
+- next-cloudinary
 
 ### Setup
 - npx create-next-app@latest . --typescript --tailwind --eslint
@@ -54,6 +56,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - npm install zustand
 - npm install axios
 - npm install react-hot-toast
+- npm install next-cloudinary
 
 ### Install Components
 - npx shadcn-ui@latest add button
@@ -92,3 +95,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://ui.shadcn.com/docs/components/separator
 - https://ui.shadcn.com/docs/components/alert
 - https://ui.shadcn.com/docs/components/badge
+- https://next.cloudinary.dev/installation
