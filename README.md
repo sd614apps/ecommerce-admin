@@ -57,6 +57,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - npm install axios
 - npm install react-hot-toast
 - npm install next-cloudinary
+- npm install date-fns
+- npm install @tanstack/react-table
 
 ### Install Components
 - npx shadcn-ui@latest add button
@@ -68,6 +70,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - npx shadcn-ui@latest add separator
 - npx shadcn-ui@latest add alert
 - npx shadcn-ui@latest add badge
+- npx shadcn-ui@latest add table
+- npx shadcn-ui@latest add dropdown-menu
 
 ### Clerk Authentication
 - npm install @clerk/nextjs
@@ -96,3 +100,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - https://ui.shadcn.com/docs/components/alert
 - https://ui.shadcn.com/docs/components/badge
 - https://next.cloudinary.dev/installation
+- https://ui.shadcn.com/docs/components/data-table
+- https://ui.shadcn.com/docs/components/dropdown-menu
